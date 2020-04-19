@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Returns a list that contains the 2 pairs of getter and setter methods include:
 ## set the value of the vector
 ## get the value of the vector
